@@ -18,7 +18,7 @@
     "debug": ">= 0.7.0",
     "doh": ">=0.0.4",
     "ejs": "0.7.x",
-    "filed": ">= 0.0.6",
+    "filed": "~0.1.0",
     "fstream": "0.1.x",
     "fstream-ignore": "0.0.x",
     "http-proxy": "0.8.1",
